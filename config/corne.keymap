@@ -27,7 +27,7 @@
             bindings = <
                 &trans   &trans        &trans        &trans        &trans        &trans        &kp AMPS &kp ASTERISK &kp UP    &trans &trans &trans
                 &trans   &kp EXCL       &kp AT        &kp HASH     &kp DLLR       &kp PERCENT    &kp EQUAL &kp LEFT    &kp DOWN  &kp RIGHT &trans &trans
-                &trans   &trans        &trans        &trans        &trans        &trans        &kp NON_US_BSLASH &trans &trans &trans &trans &trans
+                &trans   &trans        &trans        &trans        &trans        &trans        &kp NON_US_BACKSLASH &trans &trans &trans &trans &trans
                                            &trans        &trans        &trans        &trans        &trans &trans
             >;
         };
