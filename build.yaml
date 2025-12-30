@@ -23,5 +23,3 @@ include:
     shield: corne_left
   - board: nice_nano@1.0.0
     shield: corne_right
-  - board: nice_nano@1.0.0
-    shield: settings_reset
